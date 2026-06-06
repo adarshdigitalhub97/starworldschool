@@ -1,0 +1,12 @@
+{
+  "name": "Star World School",
+  "short_name": "Star World",
+  "description": "Premium preschool in Indore — Admissions Open 2026-27",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    { "src": "/__l5e/assets-v1/d85fc94a-f947-4c4f-b01a-feb1250da0d9/star-world-logo.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
